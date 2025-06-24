@@ -64,7 +64,8 @@ This system helps prevent accidents by taking action at the right time.
 | SG90 Servo Motor          | 1         |
 | Passive Buzzer            | 1         |
 | 5V Mini Fan               | 1         |
-| Breadboard & Jumper Wires | As needed |
+| 5V Mini Fan               | 1         |
+| Breadboard & Jumper Wires | 1         |
 
 ---
 
@@ -72,7 +73,6 @@ This system helps prevent accidents by taking action at the right time.
 
 * Arduino IDE
 * USB Driver for Arduino Board
-* Serial Monitor (for testing)
 
 ---
 
@@ -86,10 +86,9 @@ This system helps prevent accidents by taking action at the right time.
 
 ---
 
-## ➕ Optional Features to Add
+## ➕ Additional features can be added
 
 * LCD display to show gas values and system status
-* IoT Notification (via NodeMCU/ESP8266)
 * SMS alerts using GSM module
 * Mobile app monitoring system
 * LED indicators for visual alerts
